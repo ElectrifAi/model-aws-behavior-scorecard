@@ -7,3 +7,5 @@ Behavior Scorecard monitors risk after onboarding.
 Providing the foundation of lifecycle credit risk strategy, this model combines strategies to enable automated underwriting differentiating low (0%) to high (40%) risk. Using customer demographic data, credit history and payment behavior, lifecycle scorecard insights are produced. The Behavior Scorecard monitors risk after onboarding.
 
 SKU: BSCOR-PS-LOA-AWS-001
+
+AWS SageMaker: https://aws.amazon.com/marketplace/pp/prodview-rqcmnvkvfgcyq
